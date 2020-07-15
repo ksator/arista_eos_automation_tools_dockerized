@@ -77,6 +77,15 @@ ls -l ~/.ansible/collections/ansible_collections/arista/eos/
 
 ## Test the container 
 
+Device configuration:
+```
+s7152#show running-config section management api
+management api http-commands
+   protocol http
+   no shutdown
+s7152#
+```
+
 Run an eAPI test (python) from the container:  
 
 ```

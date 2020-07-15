@@ -4,10 +4,11 @@ Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged
 
 # Requirements 
 
-install Docker
+install Docker on your laptop.  
 
 # Create a Docker image
 
+Move to the local directory which contains the Dockerfile and run this command. 
 ```
 docker build --tag eos_automation:1.0 .
 ```
@@ -18,7 +19,7 @@ eos_automation                  1.0                 65dec9ed3519        19 minut
 
 # Instanciate a Docker container 
 
-Move to the local directory which contains your scripts and run the container with this command.
+Move to the local directory which contains your scripts and run this command to instanciate and start a container.
 ```
 docker run -it -v $PWD:/projects --name eos_automation_container eos_automation:1.0       
 ```

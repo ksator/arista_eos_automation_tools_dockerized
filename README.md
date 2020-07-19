@@ -1,4 +1,4 @@
-#  About this repository 
+# About this repository 
 
 Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged in a [Dockerfile](Dockerfile) at the root of this repository.
 
@@ -6,7 +6,23 @@ Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged
 
 install Docker on your laptop.  
 
-# Create a Docker image
+# Docker image
+
+In order to get a Docker image: 
+- either you pull the docker image that is already built and available on Docker Hub
+- or you create a Docker image yourself from the Dockerfile. 
+
+## Pull the docker image from Docker Hub
+
+```
+docker pull ksator/arista_eos_automation_tools_dockerized:latest
+```
+```
+docker images | grep arista
+ksator/arista_eos_automation_tools_dockerized   latest              177c59b2bc31        9 minutes ago       685MB
+```
+
+## Create a Docker image from the Dockerfile
 
 Move to the local directory which contains the [Dockerfile](Dockerfile) and run this command. 
 ```
@@ -106,16 +122,16 @@ result[0]['version']
 
 ## eAPI 
 
-There are examples in this repository https://github.com/ksator/arista_eos_automation_with_eAPI 
+There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_eAPI 
 
 ## Ansible 
 
-There are examples in this repository https://github.com/ksator/arista_eos_automation_with_ansible
+There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_ansible
 
 ## Pyang and Pyangbind 
 
-There are examples in this repository https://github.com/ksator/gnmi_demo_with_arista_eos
+There are examples in this repository https://github.com/arista-netdevops-community/gnmi_demo_with_arista_eos
 
 ## Netconf 
 
-There are examples in this repository https://github.com/ksator/arista_eos_automation_with_ncclient
+There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient

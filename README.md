@@ -1,6 +1,6 @@
 #  About this repository 
 
-Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged in a Dockerfile at the root of this repository.
+Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged in a [Dockerfile](Dockerfile) at the root of this repository.
 
 # Requirements 
 
@@ -8,7 +8,7 @@ install Docker on your laptop.
 
 # Create a Docker image
 
-Move to the local directory which contains the Dockerfile and run this command. 
+Move to the local directory which contains the [Dockerfile](Dockerfile) and run this command. 
 ```
 docker build --tag eos_automation:1.0 .
 ```

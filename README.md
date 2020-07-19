@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/ksator/arista_eos_automation_tools_dockerized)   
+ 
 # About this repository 
 
 Various tools for Arista EOS automation (Python libraries, Ansible ...) packaged in a [Dockerfile](Dockerfile) at the root of this repository.

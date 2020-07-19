@@ -1,6 +1,4 @@
-![GitHub](https://img.shields.io/github/license/ksator/arista_eos_automation_tools_dockerized)   
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/ksator/arista_eos_automation_tools_dockerized)   
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ksator/arista_eos_automation_tools_dockerized)  
+![GitHub](https://img.shields.io/github/license/ksator/arista_eos_automation_tools_dockerized) ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/ksator/arista_eos_automation_tools_dockerized) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ksator/arista_eos_automation_tools_dockerized)  
 
 # About this repository 
 

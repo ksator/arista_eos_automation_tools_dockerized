@@ -118,4 +118,4 @@ There are examples in this repository https://github.com/ksator/gnmi_demo_with_a
 
 ## Netconf 
 
-There are examples in this repository https://github.com/ksator/arista_eos_automation_with_ncclient 
+There are examples in this repository https://github.com/ksator/arista_eos_automation_with_ncclient

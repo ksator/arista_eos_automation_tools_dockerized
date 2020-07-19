@@ -122,16 +122,16 @@ result[0]['version']
 
 ## eAPI 
 
-There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_eAPI 
+There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_eAPI) 
 
 ## Ansible 
 
-There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_ansible
+There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_ansible)
 
 ## Pyang and Pyangbind 
 
-There are examples in this repository https://github.com/arista-netdevops-community/gnmi_demo_with_arista_eos
+There are examples in this [repository](https://github.com/arista-netdevops-community/gnmi_demo_with_arista_eos)
 
 ## Netconf 
 
-There are examples in this repository https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient
+There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient)

@@ -80,12 +80,12 @@ root@7d4eb0a7fb0a:/projects#
 Ansible version: 
 ```
 root@7d4eb0a7fb0a:/projects# ansible --version
-ansible 2.9.7
-  config file = None
+ansible 2.9.11
+  config file = /projects/ansible.cfg
   configured module search path = ['/root/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
   ansible python module location = /usr/local/lib/python3.8/dist-packages/ansible
   executable location = /usr/local/bin/ansible
-  python version = 3.8.3 (default, May 14 2020, 11:03:12) [GCC 9.3.0]
+  python version = 3.8.4 (default, Jul 13 2020, 21:16:07) [GCC 9.3.0]
 ```
 
 Verify Ansible collection: 

@@ -119,21 +119,3 @@ result=switch.runCmds(version=1,cmds=["show version"])
 pp(result) 
 result[0]['version']
 ```
-
-## EOS automation examples 
-
-## eAPI 
-
-There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_eAPI) 
-
-## Ansible 
-
-There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_ansible)
-
-## Pyang and Pyangbind 
-
-There are examples in this [repository](https://github.com/arista-netdevops-community/gnmi_demo_with_arista_eos)
-
-## Netconf 
-
-There are examples in this [repository](https://github.com/arista-netdevops-community/arista_eos_automation_with_ncclient)
